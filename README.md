@@ -1,5 +1,6 @@
 # Geometric Transformations Using OpenCV
-
+## Developed By : SANTHOSH KUMAR A
+## Register No  : 212224230250 
 
 ## Aim
 
@@ -157,33 +158,27 @@ print("Name : SANTHOSH KUMAR A")
 print("REG NO: 212224230250")
 ```
 ##  Output
+### Original Image 
+<img width="671" height="507" alt="image" src="https://github.com/user-attachments/assets/fd4e5aff-028c-43cb-9f91-908133dc930c" />
 
 ### Image Translation
-- Original image is displayed  
-- Translated image (shifted right and down) is displayed  
+
+<img width="680" height="508" alt="image" src="https://github.com/user-attachments/assets/a12207cf-e0d7-49fb-9848-1ee401d76db7" />
 
 ### Image Scaling
-- Original image is displayed  
-- Downscaled image (0.5×) is displayed  
-- Upscaled image (2×) is displayed  
+<img width="680" height="273" alt="image" src="https://github.com/user-attachments/assets/1d0a8a34-d7d8-49a6-b280-2a1df0cb2e58" />
+
 
 ### Image Shearing
-- Original image is displayed  
-- Horizontally sheared image is displayed  
-- Vertically sheared image is displayed  
+<img width="688" height="509" alt="image" src="https://github.com/user-attachments/assets/7abc00a2-2708-4fab-ae86-f359500fb8df" />
+  
 
 ### Image Reflection
-- Original image is displayed  
-- Horizontally flipped image is displayed  
-- Vertically flipped image is displayed  
-- Both-axis flipped image is displayed  
+<img width="677" height="508" alt="image" src="https://github.com/user-attachments/assets/dc2f8522-9139-4a1e-83e9-aeb0d78881ae" />
 
 ### Image Rotation
-- Original image is displayed  
-- 45° rotated image is displayed  
-- 90° rotated image is displayed  
+<img width="681" height="494" alt="image" src="https://github.com/user-attachments/assets/4da87e2b-c68f-4cf5-b58a-ea7e2d31c81f" />
 
----
 
 ##  Result
 
